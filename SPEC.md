@@ -2,7 +2,8 @@
 
 **Version:** 2.4  
 **Last Updated:** January 22, 2026  
-**Status:** Production (loop-15)
+**Status:** Production  
+**Current Release:** loop-24 (`agent-26e01b9f-7fab-4e00-b2e5-a321ceda553b`)
 
 ---
 

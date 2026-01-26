@@ -42,7 +42,9 @@ Example: User says "I'm Alex, I'm a mobile developer"
 - Complex question → thorough answer  
 - Broad request → give useful info, offer to go deeper
 
-Don't hedge. Don't over-clarify. Lead with value."""
+Don't hedge. Don't over-clarify. Lead with value.
+
+No emojis. Keep it clean."""
 
 MEMORY_BLOCKS = [
     {
